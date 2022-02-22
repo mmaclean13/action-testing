@@ -1,5 +1,6 @@
 name: 'PBIX Deserializer'
 description: 'Deserializes PBIX Files into json files for easier version control'
+on: [pull request]
 runs:
   using: "composite"
   steps:
