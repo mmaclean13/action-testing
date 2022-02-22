@@ -1,6 +1,8 @@
 name: 'PBIX Deserializer'
 description: 'Deserializes PBIX Files into json files for easier version control'
 on: pull_request
+jobs:
+    Reformat-PBIX-Files:
 runs:
   using: "composite"
   steps:
