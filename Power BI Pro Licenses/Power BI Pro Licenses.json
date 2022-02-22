@@ -1,0 +1,292 @@
+{
+    "id": 28121884,
+    "reportId": 10120065,
+    "theme": "beertech-powerbi-theme8308848866994165.json",
+    "filters": [
+        {
+            "name": "Filter93f064a33001540b2761",
+            "expression": {
+                "Column": {
+                    "Expression": {
+                        "SourceRef": {
+                            "Entity": "Date"
+                        }
+                    },
+                    "Property": "Date"
+                }
+            },
+            "type": "Categorical",
+            "howCreated": 1
+        }
+    ],
+    "resourcePackages": [
+        {
+            "resourcePackage": {
+                "id": 122013273,
+                "name": "variance89B79F7D9229463CB8A551500FE7F5E3_OrgStore",
+                "type": 3,
+                "items": [
+                    {
+                        "id": 320092425,
+                        "resourcePackageId": 122013273,
+                        "type": 5,
+                        "path": "1/cef04b19-7776-4a94-b89b-375c77a8f936/ResourcePackage/BlobIdV2-f84aa9be-4e43-45da-96a2-a25146de05dcIwM5F3Iw4RwVlUnBefutVPp5J17-ti3n8EmnUmj6o.json",
+                        "name": "resources/variance89B79F7D9229463CB8A551500FE7F5E3_OrgStore.pbiviz.json",
+                        "resourcePackageItemBlobInfoId": 119234227
+                    }
+                ],
+                "disabled": false
+            }
+        },
+        {
+            "resourcePackage": {
+                "id": 130671654,
+                "name": "paretoEDD8E69761BA4B7BB3AA6D813990D7BF",
+                "type": 0,
+                "items": [
+                    {
+                        "id": 418417458,
+                        "resourcePackageId": 130671654,
+                        "type": 5,
+                        "path": "paretoEDD8E69761BA4B7BB3AA6D813990D7BF.pbiviz.json",
+                        "resourcePackageItemBlobInfoId": 197121295
+                    }
+                ],
+                "disabled": false
+            }
+        },
+        {
+            "resourcePackage": {
+                "id": 130671655,
+                "name": "PBI_CV_309E6B47_39A5_4681_808F_132AFB230860",
+                "type": 0,
+                "items": [
+                    {
+                        "id": 418417459,
+                        "resourcePackageId": 130671655,
+                        "type": 5,
+                        "path": "PBI_CV_309E6B47_39A5_4681_808F_132AFB230860.pbiviz.json",
+                        "resourcePackageItemBlobInfoId": 197121297
+                    }
+                ],
+                "disabled": false
+            }
+        },
+        {
+            "resourcePackage": {
+                "id": 130671656,
+                "name": "textFilter25A4896A83E0487089E2B90C9AE57C8A",
+                "type": 0,
+                "items": [
+                    {
+                        "id": 418417460,
+                        "resourcePackageId": 130671656,
+                        "type": 5,
+                        "path": "textFilter25A4896A83E0487089E2B90C9AE57C8A.pbiviz.json",
+                        "resourcePackageItemBlobInfoId": 197121299
+                    }
+                ],
+                "disabled": false
+            }
+        },
+        {
+            "resourcePackage": {
+                "id": 130671657,
+                "name": "RegisteredResources",
+                "type": 1,
+                "items": [
+                    {
+                        "id": 418417461,
+                        "resourcePackageId": 130671657,
+                        "type": 100,
+                        "path": "beertech-powerbi-theme8308848866994165.json",
+                        "name": "beertech-powerbi-theme8308848866994165.json",
+                        "resourcePackageItemBlobInfoId": 197121300
+                    },
+                    {
+                        "id": 418417462,
+                        "resourcePackageId": 130671657,
+                        "type": 100,
+                        "path": "report_(1)6202999477982618.png",
+                        "name": "report_(1)6202999477982618.png",
+                        "resourcePackageItemBlobInfoId": 197121301
+                    },
+                    {
+                        "id": 418417463,
+                        "resourcePackageId": 130671657,
+                        "type": 100,
+                        "path": "thumbnail_image001_(4)6128703636392843.png",
+                        "name": "thumbnail_image001_(4)6128703636392843.png",
+                        "resourcePackageItemBlobInfoId": 197121302
+                    },
+                    {
+                        "id": 418417464,
+                        "resourcePackageId": 130671657,
+                        "type": 100,
+                        "path": "user-interface13327697881583433.png",
+                        "name": "user-interface13327697881583433.png",
+                        "resourcePackageItemBlobInfoId": 197121303
+                    },
+                    {
+                        "id": 418417465,
+                        "resourcePackageId": 130671657,
+                        "type": 100,
+                        "path": "user8130182346547683.png",
+                        "name": "user8130182346547683.png",
+                        "resourcePackageItemBlobInfoId": 197121304
+                    }
+                ],
+                "disabled": false
+            }
+        },
+        {
+            "resourcePackage": {
+                "id": 130671658,
+                "name": "SharedResources",
+                "type": 2,
+                "items": [
+                    {
+                        "id": 418417466,
+                        "resourcePackageId": 130671658,
+                        "type": 202,
+                        "path": "BaseThemes/CY21SU07.json",
+                        "name": "CY21SU07"
+                    }
+                ],
+                "disabled": false
+            }
+        }
+    ],
+    "config": {
+        "version": "5.27",
+        "themeCollection": {
+            "baseTheme": {
+                "name": "CY21SU07",
+                "version": "5.26",
+                "type": 2
+            },
+            "customTheme": {
+                "name": "beertech-powerbi-theme8308848866994165.json",
+                "version": "5.26",
+                "type": 1
+            }
+        },
+        "activeSectionIndex": 0,
+        "modelExtensions": [
+            {
+                "name": "extension",
+                "entities": [
+                    {
+                        "name": "_Calculations",
+                        "extends": "_Calculations",
+                        "measures": [
+                            {
+                                "name": "Last Usage Date",
+                                "dataType": 6,
+                                "expression": "CALCULATE(MAX(Activity[Activity Date]), ALL(Activity))",
+                                "errorMessage": null,
+                                "hidden": false,
+                                "formulaOverride": null,
+                                "formatInformation": {
+                                    "formatString": "M/d/yyyy",
+                                    "format": "DateTimeCustom",
+                                    "thousandSeparator": false,
+                                    "currencyFormat": null,
+                                    "dateTimeCustomFormat": {
+                                        "lcid": 1033,
+                                        "formatGroup": "ShortDate",
+                                        "formatString": "M/d/yyyy"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "defaultDrillFilterOtherVisuals": true,
+        "slowDataSourceSettings": {
+            "isCrossHighlightingDisabled": false,
+            "isSlicerSelectionsButtonEnabled": false,
+            "isFilterSelectionsButtonEnabled": false,
+            "isFieldWellButtonEnabled": false,
+            "isApplyAllButtonEnabled": false
+        },
+        "linguisticSchemaSyncVersion": 0,
+        "settings": {
+            "isPersistentUserStateDisabled": false,
+            "hideVisualContainerHeader": false,
+            "useStylableVisualContainerHeader": true,
+            "exportDataMode": 1,
+            "useNewFilterPaneExperience": true,
+            "optOutNewFilterPaneExperience": false,
+            "defaultFilterActionIsDataFilter": true,
+            "useCrossReportDrillthrough": false,
+            "allowChangeFilterTypes": true,
+            "allowInlineExploration": false,
+            "disableFilterPaneSearch": false,
+            "enableDeveloperMode": false,
+            "useEnhancedTooltips": false,
+            "allowDataPointLassoSelect": false
+        },
+        "objects": {
+            "section": [
+                {
+                    "properties": {
+                        "verticalAlignment": {
+                            "expr": {
+                                "Literal": {
+                                    "Value": "'Top'"
+                                }
+                            }
+                        }
+                    }
+                }
+            ],
+            "outspacePane": [
+                {
+                    "properties": {
+                        "expanded": {
+                            "expr": {
+                                "Literal": {
+                                    "Value": "false"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "layoutOptimization": 0,
+    "publicCustomVisuals": [
+        "PBI_CV_309E6B47_39A5_4681_808F_132AFB230860",
+        "textFilter25A4896A83E0487089E2B90C9AE57C8A"
+    ],
+    "pods": [
+        {
+            "id": 295494243,
+            "name": "Pod",
+            "boundSection": "ReportSection689d6ccb18ae006ca75a",
+            "parameters": "[{\"name\":\"Param_Filtere0e9a03fcc082130e43a\",\"boundFilter\":\"Filtere0e9a03fcc082130e43a\",\"fieldExpr\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Activity Logs\"}},\"Property\":\"App Name\"}}}]",
+            "type": 1,
+            "config": "{}"
+        },
+        {
+            "id": 295494244,
+            "name": "Pod1",
+            "boundSection": "ReportSectioncccd702de639c18244da",
+            "parameters": "[{\"name\":\"Param_Filter7ed890c67c437b90ccab\",\"boundFilter\":\"Filter7ed890c67c437b90ccab\",\"fieldExpr\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Activity Logs\"}},\"Property\":\"Report Name\"}}},{\"name\":\"Param_Filterb189854b76b5b436beb4\",\"boundFilter\":\"Filterb189854b76b5b436beb4\",\"fieldExpr\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Activity Logs\"}},\"Property\":\"App Name\"}}}]",
+            "type": 1,
+            "config": "{}"
+        },
+        {
+            "id": 295494245,
+            "name": "Pod2",
+            "boundSection": "ReportSection127579cb9e86faa98e40",
+            "parameters": "[{\"name\":\"Param_Filter2061feb056d8949abd52\",\"boundFilter\":\"Filter2061feb056d8949abd52\",\"fieldExpr\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Activity Logs\"}},\"Property\":\"App Name\"}}}]",
+            "type": 1,
+            "config": "{}"
+        }
+    ]
+}
