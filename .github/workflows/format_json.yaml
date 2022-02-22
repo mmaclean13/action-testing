@@ -3,7 +3,7 @@ description: 'Deserializes PBIX Files into json files for easier version control
 on: pull_request
 jobs:
     Reformat-PBIX-Files:
-runs:
+runs-on: ubuntu-latest
   using: "composite"
   steps:
     - uses: actions/checkout@v2
